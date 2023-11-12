@@ -44,7 +44,30 @@ main > .container {
   float:right;
 }
 
+.answer{
+  border: 1px solid gray;
+  margin-top: 30px;
+  border-radius: 10px;
+  padding: 20px;
+}
 
+.answer-image{
+  max-width:100px;
+  max-height: 100px;
+  margin-bottom: 20px;
+}
+
+.answer-text{
+  font-size: 17px;
+}
+
+.approval{
+  float: right;
+}
+
+.answer-footer{
+  margin-top: 10px;
+}
 
 
 @media (max-width: 1199px) {
